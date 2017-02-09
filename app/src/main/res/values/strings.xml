@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reconhecimento De Voz</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="clique_e_fale">Clique no botão e fale</string>
+
+</resources>
